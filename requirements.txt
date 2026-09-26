@@ -1,0 +1,7 @@
+fastapi
+anthropic
+python-dotenv
+pydantic
+dateparser
+pywebpush
+supabase
